@@ -1,4 +1,18 @@
+# An toàn bảo mật thông tin
+
+## bài 1
+
+Nguyễn Thị Như Ý
+
+K59KTP.01
+
+tạo App : console, 
+
+### 1. tạo khóa AES và lưu file:
+
 <img width="1475" height="533" alt="Ảnh chụp màn hình 2026-10-25 182524" src="https://github.com/user-attachments/assets/22a1e731-31c7-4d2f-b227-a5cdfa2493cf" />
+
+Nhập khóa AES từ file
 
 <img width="1185" height="450" alt="Ảnh chụp màn hình 2026-10-25 182626" src="https://github.com/user-attachments/assets/a894c2ec-d42f-45c5-82e7-ffb2330afaaf" />
 
